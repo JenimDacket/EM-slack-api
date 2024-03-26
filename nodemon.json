@@ -1,0 +1,6 @@
+{
+  "exec": "ts-node --transpile-only --require ./src/index.ts",
+  "watch": ["src"],
+  "ext": "ts",
+  "ignore": ["src/build/*"]
+}
